@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\bin\Debug\net6.0\C#-Method.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\bin\Debug\net6.0\C#-Method.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\bin\Debug\net6.0\C#-Method.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\bin\Debug\net6.0\C#-Method.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\bin\Debug\net6.0\C#-Method.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\refint\C#-Method.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\C#-Method.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\C#-Method\C#-Method\obj\Debug\net6.0\ref\C#-Method.dll
