@@ -8,24 +8,32 @@ string DivideNum(int num)
 #endregion
 #region task-2
 //n və m ədədləri verilir. Əgər n və m ədədləri hər ikisi cütdürsə n və m ədədlərinin cəmini hesablayın.
-/*Console.WriteLine(SumTwoNumbers(8,18));
-int SumTwoNumbers(int n,int m=12)
+/*Console.WriteLine(SumTwoNumbers(8, 18));
+string SumTwoNumbers(int n, int m = 12)
 {
-    return n%2==0&&m%2==0?n+m:-1; //else hali olmadan yazmaq mumkun olmadigi uchun -1
+    if (n % 2 == 0 && m % 2 == 0)
+        return $"{ n + m}";
+    else
+    {
+        $"Not even numbers";
+    }
 }*/
 #endregion
 #region task-3
 //Verilmis n ve m (n<m) ededleri arasindaki tek ededlerin sayini tapin.
-/*Console.WriteLine(CounterNum(18,48));
-int CounterNum(int n, int m = 12)
+/*Console.WriteLine(CounterNum(18, 23));
+string CounterNum(int n, int m = 12)
 {
-    int count=0;
-    int res = default;
-    for (int i = n; i <= m; i++)
+    int count = 0;
+    if (n < m)
     {
-        res= i%2 == 1 ? count++:-1;
+        for (int i = n; i <= m; i++)
+        {
+            if(i % 2 == 1) 
+               count++;
+        }
     }
-    return res;
+    return $"{count}";
 }*/
 #endregion
 #region task-4
@@ -35,22 +43,12 @@ int SumOddNumbers(int n, int m)
 {
     int sum = 0;
     int res = default;
+    if (n < m) {
     for (int i = n; i <= m; i++)
     {
-        res = i%2!= 0 ? sum += i : -1;
+        res = i % 2 != 0 ? sum += i : -1;
+    }
     }
     return res;
 }*/
-/*int sum = 0;
-int n = 7;
-int m = 15;
-for (int i = n; i <= m; i++)
-{
-    if (i%2!=0)
-    {
-        sum += i;
-    }
-}
-Console.WriteLine(sum);*/
-
 #endregion
